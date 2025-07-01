@@ -1,6 +1,6 @@
 # ssbu-character-icons
 This is a storage repository for 200x200 smash ultimate icons.
-There is also a .xlsx file which can be used to important the icons into a google sheet.
+There is also a .xlsx file which can be used to import the icons into a google sheet.
 
 **Importing into a Google Sheet**
 1. Download FetchIcons.xlsx from this repository.
