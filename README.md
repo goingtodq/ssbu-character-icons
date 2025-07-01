@@ -12,4 +12,5 @@ There is also a .xlsx file which can be used to important the icons into a googl
 7. On the new sheet with the images, you should do: _Select All_ + _Copy_ + _Paste Values Only_. This will replace the image retrieval formulas with the actual images.
 
 **Source:**
+
 https://www.reddit.com/r/smashbros/comments/1g8u7ug/i_made_200x200_pixel_versions_of_every_stock_icon/
