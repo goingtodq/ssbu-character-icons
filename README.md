@@ -7,7 +7,7 @@ There is also a .xlsx file which can be used to important the icons into a googl
 2. In your Google Sheet, select: _File_ -> _Import_ -> _Upload_ -> _Browse_.
 3. Navigate to FetchIcons.xlsx and select + upload it.
 4. For Import Location, you probably want to select 'Insert new sheet(s)'.
-5. At this point, you may need to 'Allow Access' to fetch data (the images) from external sources (this Github repo).
+5. At this point, you may need to 'Allow access' to fetch data (the images) from external sources (this Github repo).
 6. Locate the newly inserted sheet. Verify that the insertion worked.
 7. On the new sheet with the images, you should do: _Select All_ + _Copy_ + _Paste Values Only_. This will replace the image retrieval formulas with the actual images.
 
