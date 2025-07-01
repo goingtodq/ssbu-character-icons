@@ -12,6 +12,7 @@ There is also a .xlsx file which can be used to import the icons into a google s
 7. On the new sheet with the images, you should do: _Select All_ + _Copy_ + _Paste Values Only_. This will replace the image retrieval formulas with the actual images.
 
 **Other Notes**
+
 Falco's second alt was manually made by me using Pixlr, since it was missing from the image. I did a poor job, so if someone wants to make a better one it would be appreciated.
 
 **Source:**
