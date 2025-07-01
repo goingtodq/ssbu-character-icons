@@ -11,6 +11,10 @@ There is also a .xlsx file which can be used to import the icons into a google s
 6. Locate the newly inserted sheet. Verify that the insertion worked.
 7. On the new sheet with the images, you should do: _Select All_ + _Copy_ + _Paste Values Only_. This will replace the image retrieval formulas with the actual images.
 
+**Other Notes**
+Falco's second alt was manually made by me using Pixlr, since it was missing from the image. I did a poor job, so if someone wants to make a better one it would be appreciated.
+
 **Source:**
 
 https://www.reddit.com/r/smashbros/comments/1g8u7ug/i_made_200x200_pixel_versions_of_every_stock_icon/
+https://ssb.wiki.gallery/images/thumb/f/ff/FalcoHeadOrangeSSBU.png/50px-FalcoHeadOrangeSSBU.png
