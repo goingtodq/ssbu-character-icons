@@ -9,7 +9,7 @@ There are also some .xlsx files which can be used to import the icons into a goo
 2. In your Google Sheet, select: _File_ -> _Import_ -> _Upload_ -> _Browse_.
 3. Navigate to the .xlsx file on your computer and select + upload it.
 4. A menu titled _Import file_ should be displayed. For _Import Location_, you probably want to select _Insert new sheet(s)_.
-5. Choose _Import Data_.
+5. Select _Import Data_.
 6. At this point, you may need to _Allow access_ to _receieve data_ (the images) from _external parties_ (this Github repo).
 7. Locate the newly inserted sheet. Verify that the insertion worked.
 8. On the new sheet with the images, you should do: _Select All_ + _Copy_ + _Paste Values Only_. This will replace the image retrieval formulas with the actual images.
