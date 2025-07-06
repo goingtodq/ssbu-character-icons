@@ -19,7 +19,5 @@ There are also some .xlsx files which can be used to import the icons into a goo
 Falco's second alt was manually made by me using Pixlr, since it was missing from the original source. I did a poor job, so if someone wants to make a better one it would be appreciated.
 
 **Sources:**
-
-https://www.reddit.com/r/smashbros/comments/1g8u7ug/i_made_200x200_pixel_versions_of_every_stock_icon/
-
-https://ssb.wiki.gallery/images/thumb/f/ff/FalcoHeadOrangeSSBU.png/50px-FalcoHeadOrangeSSBU.png
+- https://www.reddit.com/r/smashbros/comments/1g8u7ug/i_made_200x200_pixel_versions_of_every_stock_icon/
+- https://ssb.wiki.gallery/images/thumb/f/ff/FalcoHeadOrangeSSBU.png/50px-FalcoHeadOrangeSSBU.png
